@@ -2,7 +2,7 @@
 
 ## About Me
 
-* Fav color: Blue
+* Favorite color: Blue
 * Currently drinking: Coffee
 
 ---
