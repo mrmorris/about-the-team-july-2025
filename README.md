@@ -3,7 +3,7 @@
 ---
 
 * [Ryan Morris](./ryan-morris.md)
-* <--- next person will go...
+* [Nicolas Saby](./nicolas-saby.md)
 
 ---
 
