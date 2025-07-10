@@ -5,6 +5,8 @@
 * [Ryan Morris](./ryan-morris.md)
 
 * [Kmar Kanfoud](./kmar-kanfoud.md)
+* Honest Abe
+* Bad Robot
 * <--- next person will go...
 
 
