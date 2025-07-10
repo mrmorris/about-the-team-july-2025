@@ -3,7 +3,11 @@
 ---
 
 * [Ryan Morris](./ryan-morris.md)
+
+* [Kmar Kanfoud](./kmar-kanfoud.md)
 * <--- next person will go...
+
+
 
 ---
 
