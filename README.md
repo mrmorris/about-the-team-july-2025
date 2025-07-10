@@ -3,7 +3,7 @@
 ---
 
 * [Ryan Morris](./ryan-morris.md)
-* <--- next person will go...
+* [Rachid Methia](./rachid-methia.md)
 
 ---
 
