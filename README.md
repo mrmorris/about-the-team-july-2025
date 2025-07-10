@@ -4,6 +4,9 @@
 
 * [Ryan Morris](./ryan-morris.md)
 * [Rachid Methia](./rachid-methia.md)
+* Honest Abe
+* Bad Robot
+* <--- next person will go...
 
 ---
 
