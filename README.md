@@ -4,6 +4,8 @@
 
 * [Ryan Morris](./ryan-morris.md)
 * [Dunia Almelhm] (./dunia-almelhm.md)
+* Honest Abe
+* Bad Robot
 * <--- next person will go...
 
 ---
