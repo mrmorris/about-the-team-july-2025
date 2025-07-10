@@ -6,6 +6,7 @@
 
 * Favorite color: Blue
 * Currently drinking: Coffee
+* City: Singapore
 
 ---
 
