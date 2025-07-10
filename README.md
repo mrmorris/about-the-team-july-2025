@@ -3,6 +3,7 @@
 ---
 
 * [Ryan Morris](./ryan-morris.md)
+* Bad Robot
 * <--- next person will go...
 
 ---
