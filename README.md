@@ -4,7 +4,7 @@
 
 * [Ryan Morris](./ryan-morris.md)
 * <--- next person will go...
-alexis lefebvre
+  [Alexis Lefebvre](./alex-lefebvre.md)
 ---
 
 Formed July 2025
