@@ -7,7 +7,7 @@
 
 
 
-adam Roy
+* [Adam Roy](./adam-roy.md)
 ---
 
 Formed July 2025
