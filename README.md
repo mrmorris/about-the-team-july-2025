@@ -12,6 +12,14 @@
 
 [Lettering](https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20)
 
+When adding ASCII to our pages, I recommend putting it in a [*codeblock*](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks) so it is formatted correctly, ex:
+
+````
+```md
+this is a code block 
+```
+````
+
 Art here](https://www.asciiart.eu/), [here](https://asciiart.website/) and [here](https://steamcommunity.com/groups/asciiartamalgamation) -- just search!
 
 ## (Optional) Commit Message Formatting
@@ -82,7 +90,7 @@ ex:
 
 - INSTRUCTOR WILL create a `release-` branch to `main`
 - INSTRUCTOR WILL __release it__
-- INSTRUCTOR WILL `tag` it, ex: `v1.1`
+- INSTRUCTOR WILL `tag` it, ex: `v1.0`
 - INSTRUCTOR WILL __merge back into `dev`__
 
 ### Exercise 3:
@@ -123,7 +131,9 @@ ex:
 
 ### Exercise 4
 
-- INSTRUCTOR WILL introduce a `hotfix` and get it released
+- INSTRUCTOR will introduce changes (reorg to `letters/`) in `dev`
+- INSTRUCTOR will then introduce a `hotfix` and get it released
+  - Where does a hotfix start from?
 - EVERYONE will need to get up to date with that `hotfix` 
 - EVERYONE push their updates, address conflicts as needed
 - INSTRUCTOR WILL merge (if we have time and want to try other things)
