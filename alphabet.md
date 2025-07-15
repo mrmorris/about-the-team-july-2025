@@ -14,6 +14,6 @@
    `'-'  '---'   '---'                             `--'  `"                              '---'   '---'`--'  `"                                  `'-'   
 ```
 
-* [A](LetterA.txt)
-* [B](b.md)
-* [C](c.md)
+* [A](letters/LetterA.txt)
+* [B](letters/b.md)
+* [C](letters/c.md)
